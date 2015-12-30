@@ -1,0 +1,6 @@
+?第一个问题：什么时候可以用神经网络？ 
+?第二个问题：分类还是回归？(classification or regression) 
+?第三个问题：Deterministic 还是Stochastic 
+?第四个问题：Supervised 还是 Unsupervised 
+?第五个问题：On-line 还是 Off-line 
+?第六个问题：Pc 还是其他硬件设备(DSP芯片) 
